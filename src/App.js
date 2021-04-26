@@ -4,6 +4,8 @@ import "./styles.css";
 const App = () => {
   return (
     <>
+    <h1>Contact List</h1>
+    <hr></hr>
       <ContactCard
         avatar="https://via.placeholder.com/150"
         name="Jenny Han"

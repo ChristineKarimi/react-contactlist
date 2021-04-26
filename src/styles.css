@@ -9,6 +9,17 @@
     max-width: 500px;
     max-height: 125px;
     margin-bottom: 10px;
+    margin-left: 100px;
+    margin-top: 14px;
+
+  }
+
+  h1 {
+      text-align: center;
+      color: rgb(0, 57, 59);
+      font-size: xx-large;
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-weight:lighter;
   }
   
   .contact-card p {
