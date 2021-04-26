@@ -1,12 +1,17 @@
 import React from "react";
+import "./styles.css";
 
 const App = () => {
+  const message = "This is my first variable rendered in JSX!";  
+
+  const handleClick = () =>{
+	alert("you clicked the message!");
+  }
+
   return (
     <div>
-       <h1>Hello React World</h1>
-       <h2>
-             This is our first React App - isn't it marvellous?!
-       </h2>
+      <h1>Hello React World</h1>
+      <h2 onClick={handleClick}>{message}</h2>
     </div>
   );
 }
