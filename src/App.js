@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
     <h1>Contact List</h1>
-    <hr></hr>
+    <br></br>
       <ContactCard
         avatar="https://via.placeholder.com/150"
         name="Jenny Han"
