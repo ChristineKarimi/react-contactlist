@@ -5,5 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Proect meant for learning purposes.
 
 ## screenshots
-![My portlio screenshots](assets/Screenshot (53).png)
+![My portlio screenshots](assets/Screenshot.png)
 
